@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "homepage for studio",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valdirplay/studion.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "valdirplay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valdirplay/studion/issues"
+  },
+  "homepage": "https://github.com/valdirplay/studion#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
