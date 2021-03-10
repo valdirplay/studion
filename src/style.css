@@ -72,3 +72,8 @@ ul {
 .copy--primary {
     color: var(--color-primary);
 }
+#slider {
+    height: calc(100vh - 7.75rem);
+    background-color: #000;
+    color: #fff;
+}
